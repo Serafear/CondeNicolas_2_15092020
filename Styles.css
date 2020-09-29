@@ -1355,11 +1355,11 @@ footer a
     #Logo img
     {
     
-        width: 10em;
+        width: 8em;
         height: auto;
         position: fixed left;
         margin-top: 2em;
-        margin-bottom: 3em;
+        margin-bottom: 3.5em;
         margin-left: 1.5em;
         
     }
@@ -1380,7 +1380,7 @@ footer a
     
     #Titre_principal p
     {
-        font-size: 1.5em;
+        font-size: 1.6em;
         margin-left: 1.7em;
         padding-bottom: 1.5em;
     }
@@ -1388,7 +1388,7 @@ footer a
     #navigation
     {
         display: flex;
-        margin-top: -1.9em;
+        margin-top: -2.5em;
         padding-bottom: 2.5em;
         justify-content: space-between;
     }
@@ -1428,7 +1428,10 @@ footer a
         display: flex;
         font-size: 1.5em;
         margin-top: -4em;
-        margin-left: -5em;
+        position: relative;
+        right: 4em;
+       margin-left: -2em;
+       padding-left: 2.3em;
     }
 
     #part1 span 
@@ -1456,7 +1459,10 @@ footer a
         border-bottom-color :#0065FC;
     }
 
-    
+    #part2 
+    {
+        width: 20em;
+    }
     #part2 li
     {
         border-bottom-style: solid;
@@ -1465,7 +1471,7 @@ footer a
         border-bottom-width: 5px;
         margin-left: 3em;
         margin-right: 1em;
-        padding-right: 4em;
+        padding-right: 10.3em;
         padding-left: 2em;
         padding-bottom: 0.5em;
     }
@@ -1922,7 +1928,7 @@ footer a
     }
     #Activités
     {
-    display: inline-block;
+    display: block;
     margin-left: 1.6em;
     }
     #Activités article
