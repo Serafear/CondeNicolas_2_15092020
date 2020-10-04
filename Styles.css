@@ -22,7 +22,7 @@ body
     display: flex;
     width: 8em;
     height: auto;
-    position: fixed left;
+    position: left;
     margin-top: 40px;
     margin-bottom: 30px;
     margin-left: 2.5em;
@@ -129,7 +129,7 @@ nav li
     padding: 9px 9px 9px 9px;
     margin: -5px;
     margin-bottom: 0px;
-    border-radius: none;
+    
 }  
 
 .searchbutton
@@ -668,7 +668,7 @@ footer a
     
         width: auto;
         height: 3em;
-        position: fixed left;
+        position: left;
         margin-top: 2em;
         margin-bottom: 3em;
         margin-left: 1.5em;
@@ -827,7 +827,7 @@ footer a
         padding: 9px 9px 9px 9px;
         margin-right: -1.8em;
         margin-bottom: 0px;
-        border-radius: none;
+        
     }  
     
     #Barre_de_recherche span
@@ -1371,7 +1371,7 @@ footer a
     
         width: 8em;
         height: auto;
-        position: fixed left;
+        position: left;
         margin-top: 2em;
         margin-bottom: 3.5em;
         margin-left: 1.5em;
@@ -1535,7 +1535,6 @@ footer a
         padding: 0.25em 0.4em 0.25em 0.35em;
         margin-right: 1em;
         
-        border-radius: none;
     }  
     
     #Barre_de_recherche span
@@ -2078,7 +2077,7 @@ footer a
     
         width: 10em;
         height: auto;
-        position: fixed left;
+        position: left;
         margin-top: 2em;
         margin-bottom: 3em;
         margin-left: 3em;
@@ -2236,8 +2235,7 @@ footer a
         border-width: 1px;
         padding: 0.25em 0.4em 0.25em 0.35em;
         margin-right: 1em;
-        
-        border-radius: none;
+      
     }  
     
     #Barre_de_recherche span
@@ -2783,7 +2781,7 @@ footer a
         display: flex;
         width: auto;
         height: 5.5em;
-        position: fixed left;
+        position: left;
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 3em;
@@ -2901,8 +2899,7 @@ footer a
         border-color: #F2F2F2;
         border-width: 1px;
         padding: 9px 9px 9px 9px;
-        
-        border-radius: none;
+  
     }  
     
     .searchbutton
@@ -3087,7 +3084,7 @@ footer a
     
     #block1 h2
     {
-        padding-left: 0 20px 0 20px;
+        padding: 0.6em 1em 0.6em 0em;
         margin-left: 35px;
     }
     
@@ -3413,7 +3410,7 @@ footer a
         display: flex;
         width: 9em;
         height: auto;
-        position: fixed left;
+        position: left;
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 0px;
@@ -3525,7 +3522,7 @@ footer a
         padding: 9px 9px 9px 9px;
         margin: -5px;
         margin-bottom: 0px;
-        border-radius: none;
+        
     }  
     
     .searchbutton
@@ -3708,7 +3705,7 @@ footer a
     
     #block1 h2
     {
-        padding-left: 0 20px 0 20px;
+        padding: 20px 20px 20px 20px;
         margin-left: 35px;
     }
     
@@ -4024,7 +4021,7 @@ footer a
         display: flex;
         width: 13em;
         height: auto;
-        position: fixed left;
+        position: left;
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 2.2em;
@@ -4142,7 +4139,7 @@ footer a
         padding: 9px 9px 9px 9px;
         margin-left: -0.2em;
         margin-bottom: 0px;
-        border-radius: none;
+       
     }  
     
     .searchbutton
@@ -4331,7 +4328,7 @@ footer a
     
     #block1 h2
     {
-        padding-left: 0 20px 0 20px;
+        padding: 0.6em 1em 0.6em 0;
         margin-left: 35px;
         font-size: 2em;
     }
