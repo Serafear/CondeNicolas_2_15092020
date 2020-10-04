@@ -22,7 +22,7 @@ body
     display: flex;
     width: 8em;
     height: auto;
-    position: left;
+    
     margin-top: 40px;
     margin-bottom: 30px;
     margin-left: 2.5em;
@@ -668,7 +668,7 @@ footer a
     
         width: auto;
         height: 3em;
-        position: left;
+        
         margin-top: 2em;
         margin-bottom: 3em;
         margin-left: 1.5em;
@@ -1368,10 +1368,9 @@ footer a
 {
     #Logo img
     {
-    
         width: 8em;
         height: auto;
-        position: left;
+        
         margin-top: 2em;
         margin-bottom: 3.5em;
         margin-left: 1.5em;
@@ -2074,10 +2073,9 @@ footer a
 {
     #Logo img
     {
-    
         width: 10em;
         height: auto;
-        position: left;
+        
         margin-top: 2em;
         margin-bottom: 3em;
         margin-left: 3em;
@@ -2781,7 +2779,7 @@ footer a
         display: flex;
         width: auto;
         height: 5.5em;
-        position: left;
+        
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 3em;
@@ -3410,7 +3408,7 @@ footer a
         display: flex;
         width: 9em;
         height: auto;
-        position: left;
+        
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 0px;
@@ -4021,7 +4019,7 @@ footer a
         display: flex;
         width: 13em;
         height: auto;
-        position: left;
+        
         margin-top: 40px;
         margin-bottom: 30px;
         margin-left: 2.2em;
